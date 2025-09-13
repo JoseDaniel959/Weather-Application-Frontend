@@ -12,7 +12,7 @@ import { WeatherData } from '../page';
 // boton de mostrar en celcius o grados
 // validacion de datos en el formulario (si no lo digita o si digita un valor inexistente)
 // corregir responsive
-// corregir la respuesta de la api cuando el objeto está guardado en redis
+// corregir la respuesta de la api cuando el objeto está guardado en redis (ya)
 
 function createDataForTable(data : WeatherData){
   return [
