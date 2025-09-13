@@ -8,7 +8,7 @@ import Paper from '@mui/material/Paper';
 import { WeatherData } from '../page';
 
 // se necesita hacer funcion para pasar de celcius a grados
-// añadir simbolito de cargando
+// añadir simbolito de cargando (no se pudo, se necesita al parecer de otra libreria hay que a)
 // boton de mostrar en celcius o grados
 // validacion de datos en el formulario (si no lo digita o si digita un valor inexistente)
 // corregir responsive
